@@ -64,9 +64,9 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Leap Laboratories provides an AI‑powered data discovery platform called Disco that automatically finds statistically significant patterns in user‑uploaded datasets. The service offers exploratory analysis, interpretable results, and integrates with Python SDKs, targeting researchers and enterprises seeking automated insight generation.
+Leap Laboratories provides an AI‑powered data discovery platform called Disco that automatically finds statistically significant patterns in tabular datasets. The service offers a web UI, API, Python SDK and MCP integration, supporting free public analyses and paid subscription tiers for private data, with credit allowances, secure data handling, and extensive scientific publications backing its methods.
 
-**Areas:** Company · AI · Data-Discovery · Analytics · Platform
+**Areas:** AI · DataScience · MachineLearning · Bioinformatics · Research
 
 ## Leap Laboratories on APIs.io
 
@@ -129,7 +129,7 @@ Authentication, trust centre, and vulnerability disclosure.
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://leap-labs.com/)
-- [API reference](https://disco.leap-labs.com/llms.txt)
+- [API reference](https://disco.leap-labs.com/developers)
 - [Blog](https://www.leap-labs.com/blog)
 - [Terms of service](https://www.leap-labs.com/terms)
 - [Privacy policy](https://www.leap-labs.com/privacy)
@@ -137,16 +137,16 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 38.5** — thin · rubric 0.28.0 · scored 2026-11-15
+**Kin Score 38.4** — thin · rubric 0.27.0 · scored 2026-11-15
 
 | Facet | Score |
 |---|---|
-| Discoverability | 65.0 |
+| Discoverability | 66.1 |
 | Contract quality | 55.4 |
 | Contract governance | 79.1 |
-| Operational transparency | 4.8 |
-| Developer ergonomics | 25.5 |
-| Access clarity | 17.0 |
+| Operational transparency | 5.3 |
+| Developer ergonomics | 16.0 |
+| Access clarity | 21.1 |
 
 **Agent readiness 31.9** — agent-ready
 
@@ -175,7 +175,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Operation Distinctiveness | distinct |
 | MCP Tool Quality | na |
 
-**Regulatory alignment 11.8** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 17.3** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/leap-labs-com/](https://apis.io/providers/leap-labs-com/).
 
